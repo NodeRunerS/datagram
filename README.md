@@ -1,0 +1,1 @@
+Datagram Tam Çekirdek Düğümü
